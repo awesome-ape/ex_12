@@ -1,2 +1,2 @@
-# ex_12
-ex12
+ The full project is available at: https://github.com/awesome-ape/ex_12.git
+
